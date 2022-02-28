@@ -11,7 +11,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, express or implied. See the License for the specific    
 # language governing permissions and limitations under the License. 
  
-"""Alexa Smart Home Lambda Function Sample Code.
+"""Alexa Smart Home Lambda Function Sample Code. 
 
 This file demonstrates some key concepts when migrating an existing Smart Home skill Lambda to
 v3, including recommendations on how to transfer endpoint/appliance objects, how v2 and vNext
