@@ -14,7 +14,7 @@
 """Alexa Smart Home Lambda Function Sample Code.  
   
 This file demonstrates some key concepts when migrating an existing Smart Home skill Lambda to
-v3, including recommendations on how to transfer endpoint/appliance objects, how v2 and vNext
+v3, including recommendations on how to transfer endpoint/appliance objects, how v2 and vNext 
 handlers can be used together, and how to validate your v3 responses using the new Validation  
 Schema.
 
