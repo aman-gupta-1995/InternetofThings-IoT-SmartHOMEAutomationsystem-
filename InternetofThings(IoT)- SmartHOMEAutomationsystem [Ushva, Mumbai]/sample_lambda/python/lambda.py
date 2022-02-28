@@ -15,7 +15,7 @@
   
 This file demonstrates some key concepts when migrating an existing Smart Home skill Lambda to
 v3, including recommendations on how to transfer endpoint/appliance objects, how v2 and vNext
-handlers can be used together, and how to validate your v3 responses using the new Validation
+handlers can be used together, and how to validate your v3 responses using the new Validation 
 Schema.
 
 Note that this example does not deal with user authentication, only uses virtual devices, omits
