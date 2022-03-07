@@ -28,7 +28,7 @@ Basic usage of this file is as follows:
 2. with a user in the Alexa App, enable your skill, and receive an AcceptGrant directive
 3. get the auth code from that AcceptGrant directive, and fill in the CODE constant
 4. update main() with a change or state report that is appropriate for your user and skill
-5. run this file and see how it works for the first time
+5. run this file and see how it works for the first time 
 6. change PREEMPTIVE_REFRESH_TTL_IN_SECONDS to a large number to force token refresh as needed 
 
 For more information on sending events to the Alexa event gateway, please see our documentation.
