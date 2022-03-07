@@ -6,7 +6,7 @@
             "initialSetups": [
                 { 
                     "capabilityState": {
-                        "namespace": "Alexa.PowerController", 
+                        "namespace": "Alexa.PowerController",  
                         "name": "powerState",
                         "value": "OFF"
                     },
