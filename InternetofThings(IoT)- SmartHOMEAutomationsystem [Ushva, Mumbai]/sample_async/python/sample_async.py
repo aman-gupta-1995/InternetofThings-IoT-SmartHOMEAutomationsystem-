@@ -29,7 +29,7 @@ Basic usage of this file is as follows:
 3. get the auth code from that AcceptGrant directive, and fill in the CODE constant
 4. update main() with a change or state report that is appropriate for your user and skill
 5. run this file and see how it works for the first time
-6. change PREEMPTIVE_REFRESH_TTL_IN_SECONDS to a large number to force token refresh as needed
+6. change PREEMPTIVE_REFRESH_TTL_IN_SECONDS to a large number to force token refresh as needed 
 
 For more information on sending events to the Alexa event gateway, please see our documentation.
 https://developer.amazon.com/docs/smarthome/send-events-to-the-alexa-event-gateway.html
