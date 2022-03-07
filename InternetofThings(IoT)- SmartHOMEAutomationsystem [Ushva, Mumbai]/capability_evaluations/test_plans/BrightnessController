@@ -4,7 +4,7 @@
         {
             "name": "DevRe_1.0",
             "initialSetups": [
-                {
+                { 
                     "capabilityState": {
                         "namespace": "Alexa.PowerController",
                         "name": "powerState",
