@@ -11,7 +11,7 @@
                         "value": "OFF"
                     },
                     "directive": {
-                        "header": {
+                        "header": { 
                             "namespace": "Alexa.PowerController",
                             "name": "TurnOff"
                         },
