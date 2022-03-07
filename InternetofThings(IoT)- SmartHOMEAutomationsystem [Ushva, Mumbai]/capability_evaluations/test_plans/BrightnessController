@@ -9,7 +9,7 @@
                         "namespace": "Alexa.PowerController",    
                         "name": "powerState",   
                         "value": "OFF"
-                    },
+                    }, 
                     "directive": {
                         "header": { 
                             "namespace": "Alexa.PowerController",
