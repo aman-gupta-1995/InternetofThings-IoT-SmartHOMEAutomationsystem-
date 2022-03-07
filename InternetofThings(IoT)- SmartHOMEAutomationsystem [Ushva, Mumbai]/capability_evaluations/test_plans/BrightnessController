@@ -7,7 +7,7 @@
                 { 
                     "capabilityState": { 
                         "namespace": "Alexa.PowerController",   
-                        "name": "powerState",  
+                        "name": "powerState",   
                         "value": "OFF"
                     },
                     "directive": {
