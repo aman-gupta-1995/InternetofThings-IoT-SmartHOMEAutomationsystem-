@@ -3,7 +3,7 @@
         "header": {
             "namespace": "Alexa.Authorization", 
             "name": "AcceptGrant",  
-            "payloadVersion": "3", 
+            "payloadVersion": "3",  
             "messageId": "1bd5d003-31b9-476f-ad03-71d471922820",     
             "correlationToken": "dFMb0z+PgpgdDmluhJ1LddFvSqZ/jCc8ptlAKulUj90jSqg=="  
         },
