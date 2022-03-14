@@ -1,7 +1,7 @@
 {
     "directive": {
         "header": {
-            "namespace": "Alexa.Authorization",
+            "namespace": "Alexa.Authorization", 
             "name": "AcceptGrant",
             "payloadVersion": "3",
             "messageId": "1bd5d003-31b9-476f-ad03-71d471922820",
