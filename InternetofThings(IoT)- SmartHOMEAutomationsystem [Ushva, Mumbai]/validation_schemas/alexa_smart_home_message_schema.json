@@ -6,7 +6,7 @@
     "common.properties": {
       "payloadVersion": {
         "enum": [
-          "3"
+          "3" 
         ]
       }, 
       "message": { 
