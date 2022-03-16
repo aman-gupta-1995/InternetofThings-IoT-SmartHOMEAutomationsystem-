@@ -8,7 +8,7 @@
         "enum": [
           "3"
         ]
-      },
+      }, 
       "message": { 
         "type": "string"
       },
