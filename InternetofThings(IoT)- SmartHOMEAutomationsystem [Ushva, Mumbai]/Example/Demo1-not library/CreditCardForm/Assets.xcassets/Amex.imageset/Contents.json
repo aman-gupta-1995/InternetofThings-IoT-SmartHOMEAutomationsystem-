@@ -2,7 +2,7 @@
   "images" : [
     { 
       "idiom" : "universal",
-      "filename" : "amex.png",
+      "filename" : "amex.png", 
       "scale" : "1x" 
     }, 
     { 
