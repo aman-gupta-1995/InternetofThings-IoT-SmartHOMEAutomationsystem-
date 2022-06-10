@@ -4,7 +4,7 @@ PODS:
   - Stripe (8.0.7)
 
 DEPENDENCIES: 
-  - AKMaskField (from `https://github.com/artemkrachulov/AKMaskField.git`, tag `v2.0.1`)
+  - AKMaskField (from `https://github.com/artemkrachulov/AKMaskField.git`, tag `v2.0.1`) 
   - CreditCardValidator   
   - Stripe
 
