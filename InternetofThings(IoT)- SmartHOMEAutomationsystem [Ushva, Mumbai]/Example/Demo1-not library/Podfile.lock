@@ -1,4 +1,4 @@
-PODS:
+PODS: 
   - AKMaskField (2.0.1)
   - CreditCardValidator (0.3.2)
   - Stripe (8.0.7)
