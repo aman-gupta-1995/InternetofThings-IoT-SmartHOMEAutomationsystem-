@@ -12,7 +12,7 @@
       "message": { 
         "type": "string"
       },
-      "currentDeviceMode": {
+      "currentDeviceMode": { 
         "enum": [
           "ASLEEP",
           "NOT_PROVISIONED",
