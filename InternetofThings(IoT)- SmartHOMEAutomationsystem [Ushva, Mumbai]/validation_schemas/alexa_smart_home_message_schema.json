@@ -9,7 +9,7 @@
           "3" 
         ]  
       },  
-      "message": { 
+      "message": {  
         "type": "string"
       },
       "currentDeviceMode": { 
