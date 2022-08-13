@@ -7,7 +7,7 @@
         {
           "capabilityState": {
             "namespace": "Alexa.ThermostatController",
-            "name": "thermostatMode",
+            "name": "thermostatMode", 
             "value": "COOL"
           },
           "directive": {
